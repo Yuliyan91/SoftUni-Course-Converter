@@ -6,9 +6,6 @@ Converts **PPTX** presentations and **DOCX** documents from the old SoftUni temp
   - `SoftUni-Course-Converter-GUI` - GUI application for batch conversion of PPTX and DOCX files.
   - `SoftUni-Converter-Common` - holds common helper classes and methods, used by the converter.
   - `Document-Templates` - holds the templates (carefully prepared PPTX and DOCX files)
-  - "sjksfkdjsfksjdfkdf"
-  - "kjsadhjasd"
-  - "text field"
 
 ## Screenshots
 
